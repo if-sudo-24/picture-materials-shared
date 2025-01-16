@@ -1,0 +1,1 @@
+Transparency Materials.ipynb contains detail description of the data collection, analysis, and other relevant details.
